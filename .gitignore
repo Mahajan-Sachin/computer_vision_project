@@ -1,0 +1,21 @@
+# Zip archives and massive raw datasets (>100MB rejected by GitHub)
+*.zip
+Safety_PPE.v23i.yolov8/
+dataset/train/
+dataset/valid/
+
+# Redundant nested run folders
+runs/detect/runs/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Virtual environments & IDEs
+.venv/
+venv/
+env/
+.vscode/
+.idea/

@@ -1,0 +1,7 @@
+path: C:/Users/sachi/Desktop/computer_vision_project/dataset
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 7
+names: ['No_BreathingApparatus', 'No_Glove', 'No_Goggles', 'No_Harness', 'No_Helmet', 'No_Shoe', 'Person']
