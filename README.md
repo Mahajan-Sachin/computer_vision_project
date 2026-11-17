@@ -42,7 +42,7 @@ C:\Users\sachi\Desktop\computer_vision_project\
 1. Open this folder in **VS Code** or launch **Jupyter Notebook**.
 2. Open `train_model.ipynb`.
 3. In the top-right corner of the notebook, select the Python Kernel:
-   - Choose: **`pytorch_env`** (`Python 3.10.x`)
+   - Choose: **`cv_cnn`** (`Python 3.10.x`)
 4. Run the cells step-by-step:
    - **Cell 1:** Checks PyTorch & verifies RTX 3050 GPU is active.
    - **Cell 2:** Displays class labels and dataset count (6,629 images).
